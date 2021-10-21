@@ -1,0 +1,14 @@
+com/thingstheapp/ReactNativeFlipper.java
+ com.thingstheapp.ReactNativeFlipper
+ com.thingstheapp.ReactNativeFlipper$1
+ com.thingstheapp.ReactNativeFlipper$2
+ com.thingstheapp.ReactNativeFlipper$2$1
+com/thingstheapp/BuildConfig.java
+ com.thingstheapp.BuildConfig
+com/thingstheapp/MainApplication.java
+ com.thingstheapp.MainApplication
+ com.thingstheapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/thingstheapp/MainActivity.java
+ com.thingstheapp.MainActivity
